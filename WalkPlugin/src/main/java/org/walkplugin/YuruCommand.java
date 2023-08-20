@@ -16,7 +16,7 @@ public class YuruCommand implements TabExecutor {
             return true;
         }
         if (args.length > 1) {
-            sender.sendMessage(ChatColor.RED + "Bu komutun kullanımı '/yuru <on/off>'");
+            sender.sendMessage(ChatColor.RED + "Bu komutun kullanımı '/yuru <on/off>' şeklindedir.");
             return true;
         }
         if(args[0].equals("on")){
