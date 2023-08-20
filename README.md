@@ -1,2 +1,4 @@
-# Walk_Plugin
-Plugin that provides walking mode for Minecraft.
+Command --> /yuru <on/off>
+
+--Spigot was used in this plugin.
+--Minecraft Version 1.18.2--
