@@ -1,5 +1,5 @@
 Command --> /yuru <on/off>
-You can make your character walk slowly by using this command.
+(You can make your character walk slowly by using this command.)
 
 
 --Spigot was used in this plugin.
